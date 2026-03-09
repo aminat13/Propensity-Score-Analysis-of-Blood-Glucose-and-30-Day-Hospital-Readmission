@@ -37,12 +37,9 @@ The dataset was restricted to patients with normal or high blood glucose levels,
 After preprocessing:
 
 - Original dataset size: 71,515 observations
-
 - Final analytic dataset: 6,682 observations
+- Approximately 90.7% of records were excluded due to missing or non-eligible exposure categories. 
 
-Approximately 90.7% of records were excluded due to missing or non-eligible exposure categories. 
-
-Variables:
 
 | Variable | Description |
 |---------|-------------|

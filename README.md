@@ -66,7 +66,6 @@ The analysis was conducted in R using the following packages:
 - tidyverse
 - broom
 - forcats
-- 
 
 The workflow consisted of five main stages.
 

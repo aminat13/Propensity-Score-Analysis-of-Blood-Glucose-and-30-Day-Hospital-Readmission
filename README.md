@@ -21,6 +21,7 @@ To address this issue, the analysis compares three modelling approaches:
 Propensity score methods estimate the probability of exposure given observed covariates and can be used to create a weighted pseudo-population where baseline characteristics are balanced between exposure groups. 
 
 Research Question:
+
 Is elevated blood glucose associated with an increased risk of 30-day hospital readmission among patients with diabetes after accounting for potential confounding variables? 
 
 ---
